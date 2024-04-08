@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "D:/React Native Application/travel_ui_ux-main/public"
+		},
+		{
+			"name": "travel",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"hilink"
+		]
+	}
+}
